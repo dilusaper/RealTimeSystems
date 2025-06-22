@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/home/dilusaper/esp/v5.4.1/esp-idf",
+  "idf.toolsPath": "/home/dilusaper/.espressif",
+  "idf.pythonInstallPath": "/usr/bin/python3",
+  "files.associations": {
+    "stdio.h": "c",
+    "stdlib.h": "c",
+    "gpio.h": "c",
+    "queue.h": "c",
+    "esp_log.h": "c",
+    "freertos.h": "c"
+  }
+}
