@@ -9,6 +9,7 @@
     "gpio.h": "c",
     "queue.h": "c",
     "esp_log.h": "c",
-    "freertos.h": "c"
+    "freertos.h": "c",
+    "task.h": "c"
   }
 }
