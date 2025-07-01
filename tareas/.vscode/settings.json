@@ -10,6 +10,7 @@
     "queue.h": "c",
     "esp_log.h": "c",
     "freertos.h": "c",
-    "task.h": "c"
+    "task.h": "c",
+    "adc_oneshot.h": "c"
   }
 }
